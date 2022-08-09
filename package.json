@@ -20,7 +20,7 @@
   "author": "Loïs Postula <lois@postu.la>",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.6.0",
+    "@actions/core": "^1.9.1",
     "@azure/storage-blob": "^12.11.0"
   },
   "devDependencies": {
